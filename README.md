@@ -1,7 +1,12 @@
-Ohjelmistotekniikka, harjoitustyö
+# Ohjelmistotekniikka, harjoitustyö
 
-*En tiedä vielä*
+**Alkeellinen RPG/Visual Novel-peli**
 
-**Enkä vieläkään**
+Pelaaja tekee valintoja ja etenee lineaarisessa juonessa. Myöhemmin mahdollisuuksien rajoissa toteutetaan graafinen käyttöliittymä ja inventory/tallennusominaisuudet.
 
-[a link](https://github.com/HmimH/ot-harjoitustyo/tree/2682335d8f070834d638a051630e2979c2ddbd1f/laskarit)
+
+Vaatimusmäärittely:   
+https://github.com/HmimH/ot-harjoitustyo/blob/main/laskarit/Sovellus/vaatimusmaarittely.md
+
+Tunnit:               
+https://github.com/HmimH/ot-harjoitustyo/blob/main/laskarit/Sovellus/tunnit.md
