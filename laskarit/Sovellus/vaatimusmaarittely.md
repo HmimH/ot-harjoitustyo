@@ -28,7 +28,7 @@ _2.Attack[Strength: DC 10]_
 Stats: Stealth: +2, Strength: 0, Math: +4, CS: +1, Speech: +3
 
 
-##Perurusversion tarjoama toiminnallisuus
+## Perusversion tarjoama toiminnallisuus
 
 ### Ensisijaiset tavoitteet
 
