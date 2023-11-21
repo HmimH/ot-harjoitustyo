@@ -10,3 +10,5 @@ https://github.com/HmimH/ot-harjoitustyo/blob/main/laskarit/Sovellus/vaatimusmaa
 
 Tunnit:               
 https://github.com/HmimH/ot-harjoitustyo/blob/main/laskarit/Sovellus/tunnit.md
+
+Changelog: https://github.com/HmimH/ot-harjoitustyo/blob/main/laskarit/Sovellus/dokumentaatio/changelog.md
