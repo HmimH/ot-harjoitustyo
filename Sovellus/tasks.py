@@ -7,7 +7,7 @@ def start(ctx):
 
 @task
 def test(ctx):
-    ctx.run("pytest src/tests", pty=True)
+    ctx.run("pytest src", pty=True)
 
 @task
 def coverage_report(ctx):

@@ -1,1 +1,0 @@
-tuttuja ovat sure, sure

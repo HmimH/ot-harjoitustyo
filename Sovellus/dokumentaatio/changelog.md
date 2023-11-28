@@ -17,3 +17,6 @@
 ### 21.11.
 -Kirjoitettiin testi. Muokattiin menu-rakenteen toimintaa
 -Lisättiin invoke-tehtäviä ja .coverage ja .gitignore-tiedostot.
+
+### 25.11.
+-Laatuparannuksia ja luokkajärjestyksen uusimista.

@@ -1,11 +1,17 @@
+"""
 
+First etc. depict the choices that can be made. Type not defined because it may be empty
+or something other than a state which it usually is.
+Message shows the prompt
+The effects are the dialogue options' consequences
+
+"""
 
 class Dialogue:
-    def __init__(self, message: str, first, second, third, firsteffect: callable, secondeffect: callable, thirdeffect: callable):
-        #first etc. depict the choices that can be made. Type is not defined because it may be empty
-        #or something other than a state which it usually is.
-        #Message shows the prompt
-        #The effects are the dialogue options' consequences
+    """Offers the dialogue options. Mainly for use within the screenstate-class."""
+    def __init__(self, message="", first="", second="", third="",
+                 firsteffect=quit, secondeffect=quit, thirdeffect=quit):
+        """Creates the Dialogue"""
         self.first = first
         self.second = second
         self.third = third
@@ -14,4 +20,9 @@ class Dialogue:
         self.e_3 = thirdeffect
         self.message = message
 
-        #a possibility for a def check(resulta, resultb, DC, stat)
+    def __str__(self):
+        """Creates a string. Mainly for testing."""
+        return (
+            f"Message: '{self.message}'\\ln1'{self.first}'  2'{self.second}" + \
+                f"' 3'{self.third}'\\ln1.e'{str(self.e_1)} 2.e'{str(self.e_2)} 3.e'{str(self.e_3)}")
+    
