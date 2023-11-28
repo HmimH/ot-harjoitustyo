@@ -6,9 +6,13 @@ Pelaaja tekee valintoja ja etenee lineaarisessa juonessa. Myöhemmin mahdollisuu
 
 
 Vaatimusmäärittely:   
-https://github.com/HmimH/ot-harjoitustyo/blob/main/laskarit/Sovellus/vaatimusmaarittely.md
+(https://github.com/HmimH/ot-harjoitustyo/blob/main/Sovellus/dokumentaatio/vaatimusmaarittely.md)
 
 Tunnit:               
-https://github.com/HmimH/ot-harjoitustyo/blob/main/laskarit/Sovellus/tunnit.md
+https://github.com/HmimH/ot-harjoitustyo/blob/main/Sovellus/dokumentaatio/tunnit.md
 
-Changelog: https://github.com/HmimH/ot-harjoitustyo/blob/main/laskarit/Sovellus/dokumentaatio/changelog.md
+Changelog: 
+https://github.com/HmimH/ot-harjoitustyo/blob/main/Sovellus/dokumentaatio/changelog.md
+
+Arkkitehtuuri:
+https://github.com/HmimH/ot-harjoitustyo/blob/main/Sovellus/dokumentaatio/arkkitehtuuri.md
