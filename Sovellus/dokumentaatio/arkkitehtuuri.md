@@ -1,4 +1,4 @@
-![alt text] (https://drive.google.com/file/d/1Ioud0ZR7cmQsZMJ3b5prb2OBm2GDPCcB/view?usp=sharing)
+(https://drive.google.com/file/d/1Ioud0ZR7cmQsZMJ3b5prb2OBm2GDPCcB/view?usp=sharing)
 
 classDiagram
   class Dialogue {
