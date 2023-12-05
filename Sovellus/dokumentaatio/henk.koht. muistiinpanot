@@ -3,6 +3,8 @@
 
 Syytä tehdä playthroughattava versio
 
+Kaikki metodit -> player inputtina jotta voi referoida player-oliota checkeissä
+
 
 # menu dialogue
 # Textual python library for terminal UI

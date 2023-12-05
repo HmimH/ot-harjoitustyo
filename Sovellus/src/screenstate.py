@@ -13,8 +13,9 @@ from dialogue import Dialogue
 
 class Screenstate:
     """Calls an individual scene in the game. Offers options through a Dialogue."""
-    def __init__(self, background, icons=[], choices=Dialogue()): # pylint: disable = dangerous-default-value
-        #hope that's okay, icons must be able to be empty
+
+    def __init__(self, background, icons=[], choices=Dialogue()):  # pylint: disable = dangerous-default-value
+        # hope that's okay, icons must be able to be empty
         """Creates a screenstate"""
         self.background = background
         self.icons = icons
@@ -41,8 +42,8 @@ class Screenstate:
 
     def menu():
         """A menu function for saving, continuing etc. Incomplete."""
-        state1 = quit #temporary
-        state2 = quit #temporary
+        state1 = quit  # temporary
+        state2 = quit  # temporary
         menudia = Dialogue("Can you hear the call?", "Start Game",
                            "Load Game", "Quit", state1, state2, quit)
         menustate = Screenstate(

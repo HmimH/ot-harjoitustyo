@@ -1,22 +1,23 @@
 # Changelog
 
 
-### 15.11.
+### Viikko 3
 - Changelog.md luotiin
 
+-Luotiin luokkarakenteita ja niitten __init__ metodeja.
 
-### 17.11.
-- Luotiin luokkarakenteita ja niitten __init__ metodeja.
-
-
-### 19.11.
 -Rakennettiin ensimmäinen pelimuotoinen pätkä
 -Poistettiin room-luokka tarpeettomana
 
-
-### 21.11.
 -Kirjoitettiin testi. Muokattiin menu-rakenteen toimintaa
 -Lisättiin invoke-tehtäviä ja .coverage ja .gitignore-tiedostot.
 
-### 25.11.
+### Viikko 4
 -Laatuparannuksia ja luokkajärjestyksen uusimista.
+
+### Viikko 5
+-Uudet luokat effectstate ja check
+-Player-luokan päivitys ja stat-randomisointiominaisuuden lisääminen
+-Testien korjausta
+-Tarinan laajentamista
+-Tietokannan lisääminen ja osittainen implementointi

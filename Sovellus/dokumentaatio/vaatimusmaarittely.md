@@ -32,11 +32,11 @@ Stats: Stealth: +2, Strength: 0, Math: +4, CS: +1, Speech: +3
 
 ### Ensisijaiset tavoitteet
 
-Pelaaja voi tehdä valintoja ja edistyä yksinkertaisessa tarinassa.
+Pelaaja voi tehdä valintoja ja edistyä yksinkertaisessa tarinassa. //Periaatteessa implementoitu. Tarinaa pitäisi olla enemmän mutta se ei ole ohjelmointivirhe.
 
 Pelaajan valinnat tallentuvat pelikierroksen aikana siten, että esim. valinnat eivät looppaa.
 
-Pelaajan statit voi arpoa uudelleen ja tarkistaa pelin aikana. Ne vaikuttavat tiettyihin lopputuloksiin.
+Pelaajan statit voi arpoa uudelleen ja tarkistaa pelin aikana. Ne vaikuttavat tiettyihin lopputuloksiin. //Osittain implementoitu. Voi heittää uudelleen ja tallennetaan.
 
 Tarinassa on menu, josta voi aloittaa pelin. Menuun voi palata aloittaakseen tarinan alusta.
 

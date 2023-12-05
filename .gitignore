@@ -1,4 +1,10 @@
+.vscode
+.coverage
 .pytest_cache
-laskarit/viikko2/unicafe/src/__pycache__/
-laskarit/viikko2/unicafe/src/tests/__pycache__/
-ot-esimerkkisovellus/
+__pycache__
+.pytest_cache
+henk.koht.muistiinpanot
+
+
+
+
